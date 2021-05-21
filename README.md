@@ -1,5 +1,5 @@
 
-# Building Al course projcte
+## Building Al course projcte
 # Artificial intelligence in the Hajj season
 # SUMMARY : Saudi Arabia succeeded in completing the Hajj season without injuries through the use of artificial intelligence techologies such as thermal cameras
 # Background:It is important to have asecurity and health system during the Hajj season that organizes millions of pilgrims every year
